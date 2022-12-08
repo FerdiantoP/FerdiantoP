@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FerdiantoP
 - 👀 I’m interested in Business analyst and Data analyst
-- 💞️ I’m looking to intership right now
-- 📫 How to reach me ... in email ferdiantoprajnawira@gmail.com
+- 💞️ I’m looking for intership right now
+- 📫 How to reach me: 
 
 <!---
 FerdiantoP/FerdiantoP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
